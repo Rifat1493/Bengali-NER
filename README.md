@@ -7,5 +7,5 @@ Sequence labeling is a complex task in natural language processing where the dat
 
 
 
-If You are benifitted from this repo please cite:
-Md Jamiur Rahman Rifat, Sheikh Abujar, Sheak Rashed Haider Noori, and Syed Akhter Hossain. ”Bengali Named Entity Recognition: A survey with deep learning benchmark.” In 2019 Tenth International Conference on Computing, Communications and Networking Technologies (ICCCNT),IEEE.
+If You are benifitted from this repo please cite this paper:
+https://ieeexplore.ieee.org/document/8944804
