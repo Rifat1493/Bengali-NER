@@ -3,7 +3,7 @@ Sequence labeling is a complex task in natural language processing where the dat
 
 
 
-![](NER.PNG)
+![](Input/NER.PNG)
 
 
 
